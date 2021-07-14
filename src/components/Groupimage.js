@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
-
 function Groupimage({
   lefttitle,
   righttitle,
